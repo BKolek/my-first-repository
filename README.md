@@ -10,4 +10,3 @@ Important steps for git workflow:
 6. Review previous changes with git log
 7. just some change
 8. jebn
-9. next test
